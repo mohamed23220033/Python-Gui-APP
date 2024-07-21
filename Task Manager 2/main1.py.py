@@ -2,7 +2,7 @@
 ##################################### NOTE TAKING APP (task manager) ##################################################################
 ###################################################################################################################################
 from tkinter import *
-
+import pymysql as pm
 from tkinter import messagebox
 root=Tk()
 root.title("Note Taking App")
